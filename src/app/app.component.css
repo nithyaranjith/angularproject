@@ -1,0 +1,20 @@
+.mainnav a {
+margin-inline:1rem;
+padding: 1rem;
+text-decoration: none;
+ 
+ }
+ .mainnav{
+    list-style-type: none;
+    display: flex;
+    background-color: bisque;
+    padding: 10px 10px;
+ }
+ .active{
+    background-color: #06be06;
+    color: orange !important;
+ }
+ h1{
+   color: red;
+   
+ }
